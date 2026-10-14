@@ -1,0 +1,5 @@
+# Binários compilados pelos labs (nunca faça commit de binários)
+labs/bin/
+# Saídas de análise geradas pelo REA
+*.evidence.json
+analises/
